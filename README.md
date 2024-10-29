@@ -4,24 +4,7 @@
         <img src="https://github.com/user-attachments/assets/f59a8cd9-59b7-404a-bb00-042142f69974" alt="">
     </p>
 
-<h2>Developed by</h2>
-<ul>
-    <li>
-            </a> Ashutosh Kabade
-        <a href="http://www.linkedin.com/in/ashutoshkabade" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"> 
-    </li>  
-    <li>
-         </a> Kedar Hippalge
-        <a href="https://www.linkedin.com/in/kedar04?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"> 
-    </li>
-    <li>
-         </a> Sahil Maske
-        <a href="https://www.linkedin.com/in/sahil-maske-858220254/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-         <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"> 
-    </li>  
-</ul>
+
 
 
     
